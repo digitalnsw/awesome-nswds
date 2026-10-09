@@ -161,6 +161,10 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Designsystemet](https://designsystemet.no/en/) - Norwegian shared toolbox of UI components, guidelines and patterns for digital services.
 - [Ísland.is Design System](https://island.is/s/stafraent-island/honnunarkerfi) - Icelandic government design system, published openly in Figma. In Icelandic.
   - [Ísland UI](https://ui.devland.is/) - Storybook for the component library that implements the design system.
+- [Design systém gov.cz](https://designsystem.gov.cz/) - Czech government UI component library for public administration projects. In Czech.
+- [Vlaanderen Design System](https://www.vlaanderen.be/vlaanderen-design-system) - Flemish government components, design guidelines and best practices for websites, web apps and mobile apps. In Dutch.
+- [Europa Component Library](https://ec.europa.eu/component-library/) - European Commission design system for EU websites.
+  - [Source Code](https://github.com/ec-europa/europa-component-library) - Europa Component Library repository.
 - [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
 - [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
 - [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.

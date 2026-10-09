@@ -155,6 +155,12 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Ágora Design System](https://mosaico.gov.pt/ferramentas/agora-design-system) - Portuguese government patterns and components for gov.pt services. In Portuguese.
 - [TEDI](https://www.tedi.ee/) - Estonian Government Design System.
   - [X-Road](https://x-road.global/) - Open-source software for secure data exchange between organisations, used in Estonia's digital government.
+- [Suomi.fi Design System](https://designsystem.suomi.fi/) - Finnish government components, design patterns and principles for digital services. In Finnish.
+  - [suomifi-ui-components](https://github.com/vrk-kpa/suomifi-ui-components) - React component library.
+- [Det Fælles Designsystem](https://designsystem.dk/) - Danish shared design system for self-service on borger.dk and Virk. In Danish.
+- [Designsystemet](https://designsystemet.no/en/) - Norwegian shared toolbox of UI components, guidelines and patterns for digital services.
+- [Ísland.is Design System](https://island.is/s/stafraent-island/honnunarkerfi) - Icelandic government design system, published openly in Figma. In Icelandic.
+  - [Ísland UI](https://ui.devland.is/) - Storybook for the component library that implements the design system.
 - [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
 - [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
 - [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.

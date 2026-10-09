@@ -20,6 +20,8 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [CMS and Framework Integrations](#cms-and-framework-integrations)
 - [Developer Tools](#developer-tools)
 - [Platforms and APIs](#platforms-and-apis)
+- [Other Australian Design Systems](#other-australian-design-systems)
+- [International Government Design Systems](#international-government-design-systems)
 - [Guidance](#guidance)
 - [Contacts](#contacts)
 
@@ -115,6 +117,30 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Transport for NSW Open Data Hub](https://opendata.transport.nsw.gov.au/) - Real-time and static transport datasets and APIs.
 - [Data.NSW](https://data.nsw.gov.au/) - Open data portal for NSW Government datasets.
 - [Spatial Collaboration Portal](https://portal.spatial.nsw.gov.au/portal/apps/sites/#/homepage) - Spatial datasets and web mapping services from NSW Spatial Services.
+
+## Other Australian Design Systems
+
+- [Ripple](https://ripple.sdp.vic.gov.au/) - Victorian Government design system and Vue component library from the Single Digital Presence team.
+- [Queensland Government Design System](https://www.designsystem.qld.gov.au/) - Queensland's design system, with Bootstrap 5 and web component implementations.
+  - [qgds-web-components](https://github.com/qld-gov-au/qgds-web-components) - Framework-agnostic Lit web components.
+  - [qgds-bootstrap5](https://github.com/qld-gov-au/qgds-bootstrap5) - Bootstrap 5 implementation.
+- [Agriculture Design System](https://design-system.agriculture.gov.au/) - React design system from the federal Department of Agriculture, Fisheries and Forestry, building on the original Australian Government Design System.
+- [CivicTheme](https://www.civictheme.io/) - Open-source design system and Drupal theme built for government compliance. Made by a vendor rather than an agency.
+
+## International Government Design Systems
+
+- [GOV.UK Design System](https://design-system.service.gov.uk/) - Styles, components and patterns for UK government services.
+  - [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/) - Tool for building realistic HTML prototypes of government services.
+- [NHS Design System](https://service-manual.nhs.uk/design-system) - Components and patterns for NHS websites and services.
+- [Scottish Government Design System](https://designsystem.gov.scot/) - Components and patterns for the Scottish Government and public sector, with a React version and prototype templates.
+- [U.S. Web Design System](https://designsystem.digital.gov/) - Components and guidance for US federal government websites.
+- [CMS Design System](https://design.cms.gov/) - US Centers for Medicare and Medicaid Services components for Section 508 compliant websites.
+- [GC Design System](https://design-system.canada.ca/) - Government of Canada web components for building digital products.
+- [Canada.ca Design](https://design.canada.ca/) - Styles, templates and patterns for Government of Canada services on Canada.ca.
+- [Ontario Design System](https://designsystem.ontario.ca/) - Design and coding standards, web components and npm packages for Government of Ontario products.
+- [NL Design System](https://nldesignsystem.nl/) - Dutch government collection of design systems and shared components, built in the open. In Dutch.
+- [Système de Design de l'État](https://github.com/GouvernementFR/dsfr) - French government design system. Documentation is in French.
+- [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
 
 ## Guidance
 

@@ -25,14 +25,16 @@ jobs:
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2.9.0
-        # npmjs.com answers every non-browser client with 403, so it is excluded
-        # rather than accepting 403 everywhere; check package links by hand.
+        # npmjs.com and designsystem.qld.gov.au answer every non-browser client
+        # with a Cloudflare 403, so they are excluded rather than accepting 403
+        # everywhere; check those links by hand.
         with:
           args: >-
             --no-progress
             --max-retries 3
             --accept 200,429
             --exclude '^https://www\.npmjs\.com/'
+            --exclude '^https://www\.designsystem\.qld\.gov\.au/'
             README.md CONTRIBUTING.md
           output: lychee/out.md
           fail: false

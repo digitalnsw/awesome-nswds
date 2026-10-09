@@ -141,6 +141,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [NL Design System](https://nldesignsystem.nl/) - Dutch government collection of design systems and shared components, built in the open. In Dutch.
 - [Système de Design de l'État](https://github.com/GouvernementFR/dsfr) - French government design system. Documentation is in French.
 - [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
+- [New Zealand Government Design System](https://design-system-alpha.digital.govt.nz/) - Elements, components and patterns for NZ public sector websites. Currently an alpha.
 
 ## Guidance
 

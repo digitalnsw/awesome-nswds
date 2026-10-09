@@ -21,6 +21,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Developer Tools](#developer-tools)
 - [Platforms and APIs](#platforms-and-apis)
 - [Guidance](#guidance)
+- [Contacts](#contacts)
 
 ## Design Systems
 
@@ -117,6 +118,19 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 - [NSW Design Standards](https://digital.nsw.gov.au/delivery/digital-service-toolkit/design-standards) - Ten standards for designing and delivering NSW Government digital services.
 - [Accessibility and Inclusivity Toolkit](https://digital.nsw.gov.au/delivery/accessibility-and-inclusivity-toolkit) - Guidance on designing, building, buying and testing accessible government services.
+
+## Contacts
+
+- [NSW Design System](mailto:designsystem@customerservice.nsw.gov.au) - Team behind designsystem.nsw.gov.au, its components and Figma UI kit.
+- [Digital NSW](mailto:digital@customerservice.nsw.gov.au) - Owners of the digitalnsw GitHub organisation, the @nswds packages, the NSW Email Toolkit and Public Sans. For application support, email [appsupport@customerservice.nsw.gov.au](mailto:appsupport@customerservice.nsw.gov.au).
+- [NSW Education Application Design System](mailto:ui@det.nsw.edu.au) - Team behind ADS and the @nswdoe packages. Department staff can also use the #ask-ads-app-design-system Slack channel.
+- [DCJ Digital Design System](mailto:digitalexperience@dcj.nsw.gov.au) - Department of Communities and Justice digital experience team.
+- [NSW Government Branding](mailto:nswgovbranding@customerservice.nsw.gov.au) - Brand Toolbox access and NSW Government branding questions.
+- [Accessibility NSW](mailto:digital.accessibility@customerservice.nsw.gov.au) - Team behind the Accessibility and Inclusivity Toolkit.
+- [NSW Point](mailto:ss-nswpoint@customerservice.nsw.gov.au) - API access and support for NSW Point.
+- [Sector Link Help](https://www.nsw.gov.au/departments-and-agencies/premiers-department/sector-link/sector-link-help-form) - Request form for help with Sector Link.
+- [API.NSW Support](https://api.nsw.gov.au/Support) - Support form for problems, quotas and API changes.
+- [Transport for NSW Open Data](mailto:OpenDataHelp@transport.nsw.gov.au) - Help with Open Data Hub datasets and APIs.
 
 ## Contributing
 

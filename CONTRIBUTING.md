@@ -4,12 +4,14 @@ Thanks for helping keep this list useful. Suggestions are welcome from anyone wh
 
 ## What belongs on the list
 
+The list is about things people build with: design systems, component libraries, packages, Figma libraries, templates, integrations, data visualisation tools, developer tools and APIs. Policy, strategy and general web content belong elsewhere; the small Guidance section is kept for the few standards teams design against every day.
+
 An entry should be:
 
-- **Useful to people delivering NSW Government digital products.** NSW sources come first. Federal or international resources belong only where NSW teams genuinely rely on them and there is no NSW equivalent.
-- **Authoritative.** Link to the official, canonical home of a standard, policy, tool or dataset, not to a blog post or copy about it.
-- **Current and maintained.** No archived repositories, superseded policies or pages that have not been touched in years. If something has been replaced, link to its replacement.
-- **Publicly accessible.** No intranet links or resources that need an agency login to read.
+- **Something you can use to build.** A design system, package, library, kit, template, integration or tool used on NSW Government digital products.
+- **Official or actively maintained.** Link to the canonical home: the documentation site, repository or package. Community integrations are welcome when they are maintained and used in production.
+- **Current.** No archived repositories, deprecated packages or superseded versions. If something has been replaced, link to its replacement.
+- **Publicly accessible where possible.** If a resource needs a sign-in, say so in its description.
 
 This is a curated list, not a directory. "It exists" is not enough; tell us why it is one of the best resources for its category.
 

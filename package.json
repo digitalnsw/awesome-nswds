@@ -1,7 +1,7 @@
 {
   "name": "awesome-nswds",
   "version": "0.0.0",
-  "description": "A curated list of resources for people building digital products for the NSW Government.",
+  "description": "A curated list of design systems, components and tooling for building NSW Government digital products.",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/digitalnsw/awesome-nswds.git"

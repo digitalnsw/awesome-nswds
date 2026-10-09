@@ -20,6 +20,10 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [CMS and Framework Integrations](#cms-and-framework-integrations)
 - [Developer Tools](#developer-tools)
 - [Platforms and APIs](#platforms-and-apis)
+- [Other Australian Design Systems](#other-australian-design-systems)
+- [International Government Design Systems](#international-government-design-systems)
+- [Service Manuals and Toolkits](#service-manuals-and-toolkits)
+- [Learning and Capability](#learning-and-capability)
 - [Guidance](#guidance)
 - [Contacts](#contacts)
 
@@ -95,6 +99,8 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [nsw-design-system-plone6](https://github.com/pretagov/nsw-design-system-plone6) - NSW Design System add-on for Plone 6 Volto sites.
 - [ds-nsw](https://packagist.org/packages/previousnext/ds-nsw) - PHP component library implementing the NSW Design System for PreviousNext's Interchangeable Design System.
 - [Laravel NSW Components](https://github.com/SCHN-Developers/laravel-nsw-components) - Laravel Blade components for the NSW Design System.
+- [NSW Design System Accelerator](https://nswds.dsforce.dev/s/) - Salesforce Lightning Web Components for Experience Cloud and OmniStudio, including an address picker backed by NSW Point.
+  - [Source Code](https://github.com/SalesforceLabs/gps-design-systems-lwc) - Security-vetted Salesforce Labs repository, which also covers other governments' design systems.
 
 ## Developer Tools
 
@@ -114,6 +120,78 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Data.NSW](https://data.nsw.gov.au/) - Open data portal for NSW Government datasets.
 - [Spatial Collaboration Portal](https://portal.spatial.nsw.gov.au/portal/apps/sites/#/homepage) - Spatial datasets and web mapping services from NSW Spatial Services.
 
+## Other Australian Design Systems
+
+- [Ripple](https://ripple.sdp.vic.gov.au/) - Victorian Government design system and Vue component library from the Single Digital Presence team.
+- [Queensland Government Design System](https://www.designsystem.qld.gov.au/) - Queensland's design system, with Bootstrap 5 and web component implementations.
+  - [qgds-web-components](https://github.com/qld-gov-au/qgds-web-components) - Framework-agnostic Lit web components.
+  - [qgds-bootstrap5](https://github.com/qld-gov-au/qgds-bootstrap5) - Bootstrap 5 implementation.
+- [Agriculture Design System](https://design-system.agriculture.gov.au/) - React design system from the federal Department of Agriculture, Fisheries and Forestry, building on the original Australian Government Design System.
+- [CivicTheme](https://www.civictheme.io/) - Open-source design system and Drupal theme built for government compliance. Made by a vendor rather than an agency.
+
+## International Government Design Systems
+
+- [GOV.UK Design System](https://design-system.service.gov.uk/) - Styles, components and patterns for UK government services.
+  - [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/) - Tool for building realistic HTML prototypes of government services.
+- [Home Office User-Centred Design Manual](https://design.homeoffice.gov.uk/) - UK Home Office design system, content style guide and accessibility standard.
+- [Department for Education Design](https://design.education.gov.uk/) - UK Department for Education design standards, guidance and DfE Frontend.
+- [HMRC Design Resources](https://design.tax.service.gov.uk/) - Styles, components and patterns for HMRC services, consistent with GOV.UK.
+- [Intelligence Community Design System](https://design.sis.gov.uk/) - Styles, components and patterns for apps across the UK intelligence community.
+- [NHS Design System](https://service-manual.nhs.uk/design-system) - Components and patterns for NHS websites and services.
+- [Scottish Government Design System](https://designsystem.gov.scot/) - Components and patterns for the Scottish Government and public sector, with a React version and prototype templates.
+- [U.S. Web Design System](https://designsystem.digital.gov/) - Components and guidance for US federal government websites.
+- [VA.gov Design System](https://design.va.gov/) - US Department of Veterans Affairs components and patterns for VA.gov.
+- [CMS Design System](https://design.cms.gov/) - US Centers for Medicare and Medicaid Services components for Section 508 compliant websites.
+- [GC Design System](https://design-system.canada.ca/) - Government of Canada web components for building digital products.
+- [Canada.ca Design](https://design.canada.ca/) - Styles, templates and patterns for Government of Canada services on Canada.ca.
+- [Ontario Design System](https://designsystem.ontario.ca/) - Design and coding standards, web components and npm packages for Government of Ontario products.
+- [Système de design gouvernemental du Québec](https://design.quebec.ca/) - Québec government web standards and components. In French.
+- [NL Design System](https://nldesignsystem.nl/) - Dutch government collection of design systems and shared components, built in the open. In Dutch.
+- [Système de Design de l'État](https://github.com/GouvernementFR/dsfr) - French government design system. Documentation is in French.
+- [KERN](https://www.kern-ux.de/) - Open-source UX standard and design system for German administration, from local to federal level. In German.
+- [Designers Italia](https://designers.italia.it/design-system/) - Design system for the Italian public administration. In Italian.
+- [GOV.IE Design System](https://github.com/ogcio/govie-ds) - Irish Government design system source and documentation.
+- [GOV.GR Design System](https://guide.services.gov.gr/) - Styles, components and patterns for services consistent with GOV.GR.
+- [Ágora Design System](https://mosaico.gov.pt/ferramentas/agora-design-system) - Portuguese government patterns and components for gov.pt services. In Portuguese.
+- [TEDI](https://www.tedi.ee/) - Estonian Government Design System.
+  - [X-Road](https://x-road.global/) - Open-source software for secure data exchange between organisations, used in Estonia's digital government.
+- [Suomi.fi Design System](https://designsystem.suomi.fi/) - Finnish government components, design patterns and principles for digital services. In Finnish.
+  - [suomifi-ui-components](https://github.com/vrk-kpa/suomifi-ui-components) - React component library.
+- [Det Fælles Designsystem](https://designsystem.dk/) - Danish shared design system for self-service on borger.dk and Virk. In Danish.
+- [Designsystemet](https://designsystemet.no/en/) - Norwegian shared toolbox of UI components, guidelines and patterns for digital services.
+- [Ísland.is Design System](https://island.is/s/stafraent-island/honnunarkerfi) - Icelandic government design system, published openly in Figma. In Icelandic.
+  - [Ísland UI](https://ui.devland.is/) - Storybook for the component library that implements the design system.
+- [Design systém gov.cz](https://designsystem.gov.cz/) - Czech government UI component library for public administration projects. In Czech.
+- [Vlaanderen Design System](https://www.vlaanderen.be/vlaanderen-design-system) - Flemish government components, design guidelines and best practices for websites, web apps and mobile apps. In Dutch.
+- [Europa Component Library](https://ec.europa.eu/component-library/) - European Commission design system for EU websites.
+  - [Source Code](https://github.com/ec-europa/europa-component-library) - Europa Component Library repository.
+- [Helsinki Design System](https://hds.hel.fi/) - City of Helsinki guidelines, design assets and component libraries for its digital services.
+- [Amsterdam Design System](https://designsystem.amsterdam/) - City of Amsterdam components, icons, design tokens and templates for its digital services.
+- [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
+- [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
+- [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.
+- [New Zealand Government Design System](https://design-system-alpha.digital.govt.nz/) - Elements, components and patterns for NZ public sector websites. Currently an alpha.
+
+## Service Manuals and Toolkits
+
+- [Digital Experience Toolkit](https://www.digital.gov.au/policy/digital-experience/toolkit/service-design-and-delivery-process) - Australian Government service design and delivery process, from the Digital Transformation Agency.
+- [Victorian Digital Guides](https://www.vic.gov.au/digital-guides) - Victorian Government best practice guidance for digital teams.
+- [National AI Centre](https://www.ai.gov.au/) - Australian Government guidance, tools and resources to help businesses use AI safely.
+- [GOV.UK Service Manual](https://www.gov.uk/service-manual) - Guidance for UK government teams creating and running services that meet the Service Standard.
+- [Digital Scotland Service Manual](https://servicemanual.gov.scot/) - Guidance for delivering digital projects in the Scottish public sector.
+- [Scottish Parliament Digital Service Toolkit](https://www.parliament.scot/digital-service-toolkit) - Content style guide, content strategy, brand guidelines and accessibility guidance.
+- [Digital.gov](https://digital.gov/) - Guidance on building better digital services in US government.
+  - [Communities of Practice](https://digital.gov/communities) - Cross-government communities sharing resources on digital experience.
+- [Digital Standards Playbook](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) - Government of Canada digital standards and how to apply them.
+- [Digital.govt.nz](https://www.digital.govt.nz/) - New Zealand Government standards, guidance and resources for digital services.
+- [Suomi.fi for Service Developers](https://kehittajille.suomi.fi/frontpage) - Finland's national digital solutions, good practices and guidelines for service developers.
+- [Servicestandard](https://digitalservice.bund.de/en/projects/servicestandard) - German federal requirements, guidance and support for building high-quality online services.
+
+## Learning and Capability
+
+- [Digital Academy](https://innovationnetwork.vic.gov.au/digital-academy) - Victorian Government learning programs for building a digital-ready public sector.
+- [GovAI](https://www.govai.gov.au/) - Australian Government service for building AI capability across the APS.
+
 ## Guidance
 
 - [NSW Design Standards](https://digital.nsw.gov.au/delivery/digital-service-toolkit/design-standards) - Ten standards for designing and delivering NSW Government digital services.
@@ -131,6 +209,11 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Sector Link Help](https://www.nsw.gov.au/departments-and-agencies/premiers-department/sector-link/sector-link-help-form) - Request form for help with Sector Link.
 - [API.NSW Support](https://api.nsw.gov.au/Support) - Support form for problems, quotas and API changes.
 - [Transport for NSW Open Data](mailto:OpenDataHelp@transport.nsw.gov.au) - Help with Open Data Hub datasets and APIs.
+
+## Related Lists
+
+- [Global Design Systems for Governments](https://nldesignsystem.nl/community/global-design-system/) - Index of government design systems worldwide, maintained by NL Design System.
+- [Government Design Systems List](https://github.com/ctrimm/Government-Design-Systems-List) - Federal, state and municipal government design systems.
 
 ## Contributing
 

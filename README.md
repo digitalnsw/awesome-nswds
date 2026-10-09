@@ -46,7 +46,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 ## Figma and Prototyping
 
-- [NSW Design System Figma UI Kit](https://designsystem.nsw.gov.au/get-started/figma-ui-kit.html) - Official Figma library of components and styles, shared by invitation to government teams and vendors.
+- [NSW Design System Figma UI Kit](https://www.figma.com/design/PVrERKnckLTlJSPk12gbtS/NSW-Design-System) - Official Figma file of components and styles. Viewing it requires a free Figma account.
 - [ADS Figma Library](https://www.figma.com/community/file/1008913654223541218/nsw-doe-application-design-system) - Community Figma file of NSW Education Application Design System components.
 - [nsw-design-system Skill](https://github.com/digitalnsw/nswds-skills/tree/main/skills/nsw-design-system) - AI coding agent skill for building prototypes and pages with only NSW Design System components.
 

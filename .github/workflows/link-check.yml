@@ -1,0 +1,51 @@
+# Weekly dead-link sweep of the list. An awesome list must not carry dead,
+# moved or archived entries, and government sites restructure without notice.
+#
+# Deliberately not a PR gate: a third-party site being briefly down (or
+# blocking the runner) would block unrelated merges. Instead a failing sweep
+# opens one tracking issue, and later sweeps update it rather than piling up.
+name: Link check
+
+on:
+  schedule:
+    - cron: '0 21 * * 0' # Monday 07:00/08:00 Sydney
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.9.0
+        # humanrights.gov.au answers every non-browser client with 403, so it
+        # is excluded rather than accepting 403 everywhere; check it by hand.
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 200,429
+            --exclude '^https://humanrights\.gov\.au/'
+            README.md CONTRIBUTING.md
+          output: lychee/out.md
+          fail: false
+
+      - name: Open or update the tracking issue
+        if: ${{ steps.lychee.outputs.exit_code != 0 }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title='Broken links found in the list'
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue edit "$existing" --body-file lychee/out.md
+          else
+            gh issue create --title "$title" --body-file lychee/out.md
+          fi

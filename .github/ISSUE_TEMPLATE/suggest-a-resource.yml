@@ -1,0 +1,60 @@
+name: Suggest a resource
+description: Add a design system, kit, template, package or tool used on NSW Government digital products.
+title: 'Add: '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing. The list covers things people build with: design systems, component libraries, packages, Figma libraries, templates, integrations and tools. Fill in whatever applies and leave the rest blank.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The resource's official name.
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Agency or maintainer
+      placeholder: e.g. Department of Communities and Justice
+    validations:
+      required: true
+  - type: input
+    id: docs
+    attributes:
+      label: Documentation site
+      placeholder: https://
+  - type: input
+    id: repo
+    attributes:
+      label: Source code repository
+      placeholder: https://github.com/…
+  - type: textarea
+    id: packages
+    attributes:
+      label: Packages
+      description: npm, Packagist or other package names, one per line.
+  - type: input
+    id: figma
+    attributes:
+      label: Figma library
+      placeholder: https://www.figma.com/community/file/…
+  - type: dropdown
+    id: access
+    attributes:
+      label: Access
+      options:
+        - Public
+        - Requires a sign-in
+        - Internal to an agency
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it?
+      description: One sentence describing what the resource is, plus anything reviewers should know (framework, maturity, who uses it).
+    validations:
+      required: true

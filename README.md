@@ -95,6 +95,8 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [nsw-design-system-plone6](https://github.com/pretagov/nsw-design-system-plone6) - NSW Design System add-on for Plone 6 Volto sites.
 - [ds-nsw](https://packagist.org/packages/previousnext/ds-nsw) - PHP component library implementing the NSW Design System for PreviousNext's Interchangeable Design System.
 - [Laravel NSW Components](https://github.com/SCHN-Developers/laravel-nsw-components) - Laravel Blade components for the NSW Design System.
+- [NSW Design System Accelerator](https://nswds.dsforce.dev/s/) - Salesforce Lightning Web Components for Experience Cloud and OmniStudio, including an address picker backed by NSW Point.
+  - [Source Code](https://github.com/SalesforceLabs/gps-design-systems-lwc) - Security-vetted Salesforce Labs repository, which also covers other governments' design systems.
 
 ## Developer Tools
 

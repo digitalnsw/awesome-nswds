@@ -165,6 +165,8 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Vlaanderen Design System](https://www.vlaanderen.be/vlaanderen-design-system) - Flemish government components, design guidelines and best practices for websites, web apps and mobile apps. In Dutch.
 - [Europa Component Library](https://ec.europa.eu/component-library/) - European Commission design system for EU websites.
   - [Source Code](https://github.com/ec-europa/europa-component-library) - Europa Component Library repository.
+- [Helsinki Design System](https://hds.hel.fi/) - City of Helsinki guidelines, design assets and component libraries for its digital services.
+- [Amsterdam Design System](https://designsystem.amsterdam/) - City of Amsterdam components, icons, design tokens and templates for its digital services.
 - [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
 - [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
 - [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.

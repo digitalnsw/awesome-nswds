@@ -131,16 +131,24 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 - [GOV.UK Design System](https://design-system.service.gov.uk/) - Styles, components and patterns for UK government services.
   - [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/) - Tool for building realistic HTML prototypes of government services.
+- [Home Office User-Centred Design Manual](https://design.homeoffice.gov.uk/) - UK Home Office design system, content style guide and accessibility standard.
+- [Department for Education Design](https://design.education.gov.uk/) - UK Department for Education design standards, guidance and DfE Frontend.
+- [HMRC Design Resources](https://design.tax.service.gov.uk/) - Styles, components and patterns for HMRC services, consistent with GOV.UK.
+- [Intelligence Community Design System](https://design.sis.gov.uk/) - Styles, components and patterns for apps across the UK intelligence community.
 - [NHS Design System](https://service-manual.nhs.uk/design-system) - Components and patterns for NHS websites and services.
 - [Scottish Government Design System](https://designsystem.gov.scot/) - Components and patterns for the Scottish Government and public sector, with a React version and prototype templates.
 - [U.S. Web Design System](https://designsystem.digital.gov/) - Components and guidance for US federal government websites.
+- [VA.gov Design System](https://design.va.gov/) - US Department of Veterans Affairs components and patterns for VA.gov.
 - [CMS Design System](https://design.cms.gov/) - US Centers for Medicare and Medicaid Services components for Section 508 compliant websites.
 - [GC Design System](https://design-system.canada.ca/) - Government of Canada web components for building digital products.
 - [Canada.ca Design](https://design.canada.ca/) - Styles, templates and patterns for Government of Canada services on Canada.ca.
 - [Ontario Design System](https://designsystem.ontario.ca/) - Design and coding standards, web components and npm packages for Government of Ontario products.
+- [Système de design gouvernemental du Québec](https://design.quebec.ca/) - Québec government web standards and components. In French.
 - [NL Design System](https://nldesignsystem.nl/) - Dutch government collection of design systems and shared components, built in the open. In Dutch.
 - [Système de Design de l'État](https://github.com/GouvernementFR/dsfr) - French government design system. Documentation is in French.
 - [Singapore Government Design System](https://www.designsystem.tech.gov.sg/) - Frontend framework and components for Singapore Government websites.
+- [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
+- [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.
 - [New Zealand Government Design System](https://design-system-alpha.digital.govt.nz/) - Elements, components and patterns for NZ public sector websites. Currently an alpha.
 
 ## Guidance

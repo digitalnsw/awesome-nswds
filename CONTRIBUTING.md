@@ -2,14 +2,18 @@
 
 Thanks for helping keep this list useful. Suggestions are welcome from anyone who designs, builds, writes for or runs digital products for the NSW Government.
 
+If your agency has a design system, kit or tool that isn't listed, the quickest way to share it is the [Suggest a resource](https://github.com/digitalnsw/awesome-nswds/issues/new?template=suggest-a-resource.yml) issue form. You don't need to know Git or Markdown.
+
 ## What belongs on the list
+
+The list is about things people build with: design systems, component libraries, packages, Figma libraries, templates, integrations, data visualisation tools, developer tools and APIs. Policy, strategy and general web content belong elsewhere. The Content Design and Guidance sections are kept small, for the standards teams work against every day.
 
 An entry should be:
 
-- **Useful to people delivering NSW Government digital products.** NSW sources come first. Federal or international resources belong only where NSW teams genuinely rely on them and there is no NSW equivalent.
-- **Authoritative.** Link to the official, canonical home of a standard, policy, tool or dataset, not to a blog post or copy about it.
-- **Current and maintained.** No archived repositories, superseded policies or pages that have not been touched in years. If something has been replaced, link to its replacement.
-- **Publicly accessible.** No intranet links or resources that need an agency login to read.
+- **Something you can use to build.** A design system, package, library, kit, template, integration or tool used on NSW Government digital products.
+- **Official or actively maintained.** Link to the canonical home: the documentation site, repository or package. Community integrations are welcome when they are maintained and used in production.
+- **Current.** No archived repositories, deprecated packages or superseded versions. If something has been replaced, link to its replacement.
+- **Publicly accessible where possible.** Resources that need a sign-in or are internal to an agency are welcome, but their description must say so.
 
 This is a curated list, not a directory. "It exists" is not enough; tell us why it is one of the best resources for its category.
 

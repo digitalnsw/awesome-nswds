@@ -25,14 +25,19 @@ jobs:
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2.9.0
-        # npmjs.com and designsystem.qld.gov.au answer every non-browser client
-        # with a Cloudflare 403, so they are excluded rather than accepting 403
+        # Several government sites (Akamai- and Cloudflare-fronted) reset or
+        # reject lychee's default user agent, which showed up as HTTP/2 protocol
+        # errors and 403s on links that open fine in a browser. A browser user
+        # agent clears those; 202 is accepted because gov.scot answers bots with
+        # it. npmjs.com and designsystem.qld.gov.au still challenge every
+        # non-browser client, so they stay excluded rather than accepting 403
         # everywhere; check those links by hand.
         with:
           args: >-
             --no-progress
             --max-retries 3
-            --accept 200,429
+            --accept 200,202,429
+            --user-agent 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
             --exclude '^https://www\.npmjs\.com/'
             --exclude '^https://www\.designsystem\.qld\.gov\.au/'
             README.md CONTRIBUTING.md

@@ -24,6 +24,9 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [International Government Design Systems](#international-government-design-systems)
 - [Service Manuals and Toolkits](#service-manuals-and-toolkits)
 - [Learning and Capability](#learning-and-capability)
+- [NSW Government Sites That Inspire Me](#nsw-government-sites-that-inspire-me)
+- [Other Australian Government Sites That Inspire Me](#other-australian-government-sites-that-inspire-me)
+- [International Government Sites That Inspire Me](#international-government-sites-that-inspire-me)
 - [Guidance](#guidance)
 - [Contacts](#contacts)
 
@@ -191,6 +194,20 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 - [Digital Academy](https://innovationnetwork.vic.gov.au/digital-academy) - Victorian Government learning programs for building a digital-ready public sector.
 - [GovAI](https://www.govai.gov.au/) - Australian Government service for building AI capability across the APS.
+
+## NSW Government Sites That Inspire Me
+
+- [NSW Government](https://www.nsw.gov.au/) - Central website for NSW Government information and services.
+- [iCanQuit](https://www.icanquit.com.au/) - Cancer Institute NSW support for quitting smoking and vaping.
+- [Neon Marketplace](https://www.neonmarketplace.nsw.gov.au/) - Business-to-business hub connecting artists, suppliers and business partners to grow NSW's 24-hour economy districts.
+- [transportnsw.info](https://transportnsw.info/) - Trip planner, timetables, travel alerts and Opal fares for public transport across NSW.
+- [Destination NSW](https://www.destinationnsw.com.au/) - NSW Government tourism and major events agency.
+- [Visit NSW](https://www.visitnsw.com/) - Official NSW tourism website for towns, events, road trips and places to stay.
+- [Museums of History NSW](https://mhnsw.au/) - NSW museums, historic houses and the State Archives Collection.
+
+## Other Australian Government Sites That Inspire Me
+
+## International Government Sites That Inspire Me
 
 ## Guidance
 

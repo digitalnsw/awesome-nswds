@@ -29,8 +29,8 @@ jobs:
         # - Figma and some government sites reject lychee's default user agent,
         #   so a browser user agent is sent.
         # - gov.scot answers automated clients with 202, so 202 is accepted.
-        # - npmjs.com and designsystem.qld.gov.au challenge every non-browser
-        #   client with a Cloudflare 403.
+        # - npmjs.com, designsystem.qld.gov.au and newzealand.com challenge every
+        #   non-browser client with a 403.
         # - stylemanual.gov.au, digital.gov.au, ai.gov.au, govai.gov.au and
         #   canada.ca reset connections from GitHub's runner network ("HTTP/2
         #   protocol error"), although the same lychee version reaches them
@@ -45,6 +45,7 @@ jobs:
             --user-agent 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
             --exclude '^https://www\.npmjs\.com/'
             --exclude '^https://www\.designsystem\.qld\.gov\.au/'
+            --exclude '^https://www\.newzealand\.com/'
             --exclude '^https://www\.stylemanual\.gov\.au/'
             --exclude '^https://www\.digital\.gov\.au/'
             --exclude '^https://www\.ai\.gov\.au/'

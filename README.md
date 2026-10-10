@@ -24,6 +24,9 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [International Government Design Systems](#international-government-design-systems)
 - [Service Manuals and Toolkits](#service-manuals-and-toolkits)
 - [Learning and Capability](#learning-and-capability)
+- [NSW Government Sites That Inspire Me](#nsw-government-sites-that-inspire-me)
+- [Other Australian Government Sites That Inspire Me](#other-australian-government-sites-that-inspire-me)
+- [International Government Sites That Inspire Me](#international-government-sites-that-inspire-me)
 - [Guidance](#guidance)
 - [Contacts](#contacts)
 
@@ -191,6 +194,49 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 - [Digital Academy](https://innovationnetwork.vic.gov.au/digital-academy) - Victorian Government learning programs for building a digital-ready public sector.
 - [GovAI](https://www.govai.gov.au/) - Australian Government service for building AI capability across the APS.
+
+## NSW Government Sites That Inspire Me
+
+- [NSW Government](https://www.nsw.gov.au/) - Central website for NSW Government information and services.
+- [iCanQuit](https://www.icanquit.com.au/) - Cancer Institute NSW support for quitting smoking and vaping.
+- [Neon Marketplace](https://www.neonmarketplace.nsw.gov.au/) - Business-to-business hub connecting artists, suppliers and business partners to grow NSW's 24-hour economy districts.
+- [transportnsw.info](https://transportnsw.info/) - Trip planner, timetables, travel alerts and Opal fares for public transport across NSW.
+- [Destination NSW](https://www.destinationnsw.com.au/) - NSW Government tourism and major events agency.
+- [Visit NSW](https://www.visitnsw.com/) - Official NSW tourism website for towns, events, road trips and places to stay.
+- [Museums of History NSW](https://mhnsw.au/) - NSW museums, historic houses and the State Archives Collection.
+- [Service NSW](https://www.service.nsw.gov.au/) - Front door to NSW Government transactions and support for individuals and businesses.
+- [Powerhouse Collection](https://collection.powerhouse.com.au/) - Searchable online collection of more than half a million objects from Australia's largest museum group.
+- [State Library of NSW](https://www.sl.nsw.gov.au/) - Australia's oldest library, with digitised collections and research tools.
+- [Art Gallery of NSW](https://www.artgallery.nsw.gov.au/) - Sydney art museum showcasing Australian and international art.
+- [Australian Museum](https://australian.museum/) - Australia's first museum, covering the natural history and cultures of Australia and the Pacific.
+- [Botanic Gardens of Sydney](https://www.botanicgardens.org.au/) - Royal Botanic Garden Sydney, the Australian Botanic Garden Mount Annan and the Blue Mountains Botanic Garden.
+- [Sydney Opera House](https://www.sydneyoperahouse.com/) - Performing arts centre run by a NSW Government statutory body under its own independent brand.
+
+## Other Australian Government Sites That Inspire Me
+
+- [Trove](https://trove.nla.gov.au/) - Free research portal from the National Library of Australia and hundreds of partner organisations.
+- [myGov](https://my.gov.au/) - One place to access Australian Government services.
+- [Moneysmart](https://moneysmart.gov.au/) - ASIC's free calculators and guidance for managing money.
+- [Bureau of Meteorology](https://www.bom.gov.au/) - Weather forecasts, severe weather warnings and observations.
+- [ABC](https://www.abc.net.au/) - Australian Broadcasting Corporation news, audio and on-demand video.
+- [ACMI](https://www.acmi.net.au/) - Victoria's museum of screen culture.
+- [NGV](https://www.ngv.vic.gov.au/) - National Gallery of Victoria, Australia's largest and most visited art museum.
+- [QAGOMA](https://www.qagoma.qld.gov.au/) - Queensland Art Gallery and Gallery of Modern Art.
+- [vic.gov.au](https://www.vic.gov.au/) - Victorian Government's central website for grants, services and what's on.
+
+## International Government Sites That Inspire Me
+
+- [GOV.UK](https://www.gov.uk/) - Single website for UK government services and information.
+- [NHS Website](https://www.nhs.uk/) - Health information and services for people in England.
+- [USAGov](https://www.usa.gov/) - Guide to US government benefits, services and agencies.
+- [Ísland.is](https://island.is/en) - Iceland's portal for government information and services.
+- [V&A](https://www.vam.ac.uk/) - UK family of museums championing design and creativity.
+- [Rijksmuseum](https://www.rijksmuseum.nl/en) - National museum of the Netherlands, home of the Dutch masters.
+- [Te Papa](https://www.tepapa.govt.nz/) - New Zealand's national museum.
+- [BBC](https://www.bbc.co.uk/) - British Broadcasting Corporation news, TV, radio and podcasts.
+- [NASA](https://www.nasa.gov/) - News, images and videos from the US space agency.
+- [NewZealand.com](https://www.newzealand.com/) - New Zealand's official site for travel, business and investment.
+- [e-Estonia](https://e-estonia.com/) - Showcase of how Estonia built its digital society.
 
 ## Guidance
 

@@ -204,6 +204,12 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Destination NSW](https://www.destinationnsw.com.au/) - NSW Government tourism and major events agency.
 - [Visit NSW](https://www.visitnsw.com/) - Official NSW tourism website for towns, events, road trips and places to stay.
 - [Museums of History NSW](https://mhnsw.au/) - NSW museums, historic houses and the State Archives Collection.
+- [Service NSW](https://www.service.nsw.gov.au/) - Front door to NSW Government transactions and support for individuals and businesses.
+- [Powerhouse Collection](https://collection.powerhouse.com.au/) - Searchable online collection of more than half a million objects from Australia's largest museum group.
+- [State Library of NSW](https://www.sl.nsw.gov.au/) - Australia's oldest library, with digitised collections and research tools.
+- [Art Gallery of NSW](https://www.artgallery.nsw.gov.au/) - Sydney art museum showcasing Australian and international art.
+- [Australian Museum](https://australian.museum/) - Australia's first museum, covering the natural history and cultures of Australia and the Pacific.
+- [Botanic Gardens of Sydney](https://www.botanicgardens.org.au/) - Royal Botanic Garden Sydney, the Australian Botanic Garden Mount Annan and the Blue Mountains Botanic Garden.
 
 ## Other Australian Government Sites That Inspire Me
 

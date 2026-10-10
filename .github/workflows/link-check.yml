@@ -25,16 +25,31 @@ jobs:
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2.9.0
-        # npmjs.com and designsystem.qld.gov.au answer every non-browser client
-        # with a Cloudflare 403, so they are excluded rather than accepting 403
-        # everywhere; check those links by hand.
+        # False positives, and how each is handled (verified 2026-10-10):
+        # - Figma and some government sites reject lychee's default user agent,
+        #   so a browser user agent is sent.
+        # - gov.scot answers automated clients with 202, so 202 is accepted.
+        # - npmjs.com and designsystem.qld.gov.au challenge every non-browser
+        #   client with a Cloudflare 403.
+        # - stylemanual.gov.au, digital.gov.au, ai.gov.au, govai.gov.au and
+        #   canada.ca reset connections from GitHub's runner network ("HTTP/2
+        #   protocol error"), although the same lychee version reaches them
+        #   from other networks.
+        # The last two groups are excluded rather than accepting 403 or protocol
+        # errors everywhere; check those links by hand.
         with:
           args: >-
             --no-progress
             --max-retries 3
-            --accept 200,429
+            --accept 200,202,429
+            --user-agent 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
             --exclude '^https://www\.npmjs\.com/'
             --exclude '^https://www\.designsystem\.qld\.gov\.au/'
+            --exclude '^https://www\.stylemanual\.gov\.au/'
+            --exclude '^https://www\.digital\.gov\.au/'
+            --exclude '^https://www\.ai\.gov\.au/'
+            --exclude '^https://www\.govai\.gov\.au/'
+            --exclude '^https://www\.canada\.ca/'
             README.md CONTRIBUTING.md
           output: lychee/out.md
           fail: false

@@ -214,6 +214,16 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 ## Other Australian Government Sites That Inspire Me
 
+- [Trove](https://trove.nla.gov.au/) - Free research portal from the National Library of Australia and hundreds of partner organisations.
+- [myGov](https://my.gov.au/) - One place to access Australian Government services.
+- [Moneysmart](https://moneysmart.gov.au/) - ASIC's free calculators and guidance for managing money.
+- [Bureau of Meteorology](https://www.bom.gov.au/) - Weather forecasts, severe weather warnings and observations.
+- [ABC](https://www.abc.net.au/) - Australian Broadcasting Corporation news, audio and on-demand video.
+- [ACMI](https://www.acmi.net.au/) - Victoria's museum of screen culture.
+- [NGV](https://www.ngv.vic.gov.au/) - National Gallery of Victoria, Australia's largest and most visited art museum.
+- [QAGOMA](https://www.qagoma.qld.gov.au/) - Queensland Art Gallery and Gallery of Modern Art.
+- [vic.gov.au](https://www.vic.gov.au/) - Victorian Government's central website for grants, services and what's on.
+
 ## International Government Sites That Inspire Me
 
 ## Guidance

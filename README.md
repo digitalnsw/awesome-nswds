@@ -226,6 +226,18 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 ## International Government Sites That Inspire Me
 
+- [GOV.UK](https://www.gov.uk/) - Single website for UK government services and information.
+- [NHS Website](https://www.nhs.uk/) - Health information and services for people in England.
+- [USAGov](https://www.usa.gov/) - Guide to US government benefits, services and agencies.
+- [Ísland.is](https://island.is/en) - Iceland's portal for government information and services.
+- [V&A](https://www.vam.ac.uk/) - UK family of museums championing design and creativity.
+- [Rijksmuseum](https://www.rijksmuseum.nl/en) - National museum of the Netherlands, home of the Dutch masters.
+- [Te Papa](https://www.tepapa.govt.nz/) - New Zealand's national museum.
+- [BBC](https://www.bbc.co.uk/) - British Broadcasting Corporation news, TV, radio and podcasts.
+- [NASA](https://www.nasa.gov/) - News, images and videos from the US space agency.
+- [NewZealand.com](https://www.newzealand.com/) - New Zealand's official site for travel, business and investment.
+- [e-Estonia](https://e-estonia.com/) - Showcase of how Estonia built its digital society.
+
 ## Guidance
 
 - [NSW Design Standards](https://digital.nsw.gov.au/delivery/digital-service-toolkit/design-standards) - Ten standards for designing and delivering NSW Government digital services.

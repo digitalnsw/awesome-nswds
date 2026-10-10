@@ -210,6 +210,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Art Gallery of NSW](https://www.artgallery.nsw.gov.au/) - Sydney art museum showcasing Australian and international art.
 - [Australian Museum](https://australian.museum/) - Australia's first museum, covering the natural history and cultures of Australia and the Pacific.
 - [Botanic Gardens of Sydney](https://www.botanicgardens.org.au/) - Royal Botanic Garden Sydney, the Australian Botanic Garden Mount Annan and the Blue Mountains Botanic Garden.
+- [Sydney Opera House](https://www.sydneyoperahouse.com/) - Performing arts centre run by a NSW Government statutory body under its own independent brand.
 
 ## Other Australian Government Sites That Inspire Me
 

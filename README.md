@@ -174,6 +174,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [Malaysia Government Design System](https://design.digital.gov.my/) - Design foundation and pre-built components for official Malaysian government websites.
 - [Digital Agency Design System](https://design.digital.go.jp/dads/) - Japanese Digital Agency design language, components and guidance, in beta. In Japanese.
 - [New Zealand Government Design System](https://design-system-alpha.digital.govt.nz/) - Elements, components and patterns for NZ public sector websites. Currently an alpha.
+- [NZ Ministry of Education Design System](https://designsystem.education.govt.nz/) - Te Tāhuhu o te Mātauranga components, patterns and accessibility guidance for internal teams and vendors.
 
 ## Service Manuals and Toolkits
 

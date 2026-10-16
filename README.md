@@ -24,6 +24,7 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 - [International Government Design Systems](#international-government-design-systems)
 - [Service Manuals and Toolkits](#service-manuals-and-toolkits)
 - [Learning and Capability](#learning-and-capability)
+- [Digital Project Dashboards](#digital-project-dashboards)
 - [NSW Government Sites That Inspire Me](#nsw-government-sites-that-inspire-me)
 - [Other Australian Government Sites That Inspire Me](#other-australian-government-sites-that-inspire-me)
 - [International Government Sites That Inspire Me](#international-government-sites-that-inspire-me)
@@ -195,6 +196,14 @@ Does your agency have a design system, kit or tool that isn't here? [Suggest it]
 
 - [Digital Academy](https://innovationnetwork.vic.gov.au/digital-academy) - Victorian Government learning programs for building a digital-ready public sector.
 - [GovAI](https://www.govai.gov.au/) - Australian Government service for building AI capability across the APS.
+
+## Digital Project Dashboards
+
+- [Digital Projects Dashboard](https://www.qld.gov.au/digitalprojectsdashboard) - Queensland Government's major digital projects, drawn from departmental reporting.
+- [Victorian Government IT Dashboard](https://itdashboard.digital.vic.gov.au/) - Stage, status, cost and schedule of Victorian Government IT projects, from the Department of Government Services.
+- [Federal IT Dashboard](https://www.itdashboard.gov/) - US federal IT spending and investments. Being scaled back to statutorily required data from April 2026.
+- [Statewide IT Project Portfolio](https://www.cdt.ca.gov/statewide-it-project-portfolio/) - California's active state IT projects with cost, criticality and condition, updated monthly.
+- [QAT Dashboard](https://qat-dashboard.lbb.texas.gov/) - Texas major information resources projects tracked by the Quality Assurance Team.
 
 ## NSW Government Sites That Inspire Me
 
